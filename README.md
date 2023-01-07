@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1>Александр <del>Шутка про редкое имя</del> Соколов</h1>
+<h1>Александр <del>редкое имя</del> Соколов</h1>
   <a href="https://t.me/Sarkoxed" target="_blank">
     <img src="https://github.com/Sarkoxed/Sarkoxed/blob/main/telelogo.png">
   </a>

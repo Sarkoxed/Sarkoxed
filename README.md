@@ -6,12 +6,8 @@
 </div>
 
 
-[![Button Click]][Link] 
 
-[![en]]][https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md]
-<!----------------------------------------------------------------------------->
-[Link]: # 'Link with example title.'
-<!---------------------------------[ Buttons ]--------------------------------->
+[![Button Click]][https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md]
 [Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 ### Я

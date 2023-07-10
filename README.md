@@ -5,7 +5,7 @@
   </a>
 </div>
 
-[button url="https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md"]
+[![en]]][https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md]
 
 ### Я
  

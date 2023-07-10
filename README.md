@@ -6,10 +6,12 @@
 </div>
 
 
+[![Button Shield]][Shield]
 
-[![Button Click]][https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md]
 
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+[Shield]: ./README-en.md
+
+[Button Shield]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 ### Я
  

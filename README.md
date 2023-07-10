@@ -4,7 +4,7 @@
     <img src="https://github.com/Sarkoxed/Sarkoxed/blob/main/telelogo.png">
   </a>
 </div>
-<kbd> <br> [https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md] <br> </kbd>
+<kbd> <br> [en][https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md] <br> </kbd>
 
 ### Я
  

@@ -3,10 +3,10 @@
   <a href="https://t.me/Sarkoxed" target="_blank">
     <img src="https://github.com/Sarkoxed/Sarkoxed/blob/main/telelogo.png">
   </a>
+  [![Button Shield]][Shield]
 </div>
 
 
-[![Button Shield]][Shield]
 
 
 [Shield]: ./README-en.md

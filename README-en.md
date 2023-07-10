@@ -1,9 +1,16 @@
+[![Button Shield]][Shield]
+
 <div align="center"> 
 <h1>Alex <del>rare</del> Sokolov</h1>
   <a href="https://t.me/Sarkoxed" target="_blank">
     <img src="https://github.com/Sarkoxed/Sarkoxed/blob/main/telelogo.png">
   </a>
 </div>
+
+[Shield]: ./README-en.md
+
+[Button Shield]: https://img.shields.io/badge/ru-ff008d
+
 
 ### I am
  

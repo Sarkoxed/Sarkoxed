@@ -11,7 +11,7 @@
 
 [Shield]: ./README-en.md
 
-[Button Shield]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+[Button Shield]: https://img.shields.io/badge/en-ff008d
 
 ### Я
  

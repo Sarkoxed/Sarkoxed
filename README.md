@@ -5,7 +5,7 @@
   </a>
 </div>
 
-[<kbd> <br> en <br> </kbd>][https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md]
+[button url="https:://github.com/Sarkoxed/Sarkoxed/blob/main/README-en.md"]
 
 ### Я
  

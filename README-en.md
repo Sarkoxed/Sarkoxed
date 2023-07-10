@@ -6,6 +6,11 @@
     <img src="https://github.com/Sarkoxed/Sarkoxed/blob/main/telelogo.png">
   </a>
 </div>
+<div align="center">
+ <a href="www.linkedin.com/in/alexander-sokolov-6a043b254" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=000000&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 [Shield]: ./README-en.md
 

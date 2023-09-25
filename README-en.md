@@ -44,7 +44,7 @@
   - 😞 Cup CTF 2022, 2nd place
   - 😞 RuCTF 2023, 4th(3rd) place
   - 😞 Information Security olympiad "я профессионал 2023, безопасность информационных систем и технологий критически важных объектов", 3rd place
-  - 😞 VolgaCTF 2023, 2 место
+  - 😞 VolgaCTF 2023, 2nd place
 
 #### Holding CTFs
 

@@ -45,11 +45,19 @@
   - 😞 RuCTF 2023, 4th(3rd) place
   - 😞 Information Security olympiad "я профессионал 2023, безопасность информационных систем и технологий критически важных объектов", 3rd place
   - 😞 VolgaCTF 2023, 2nd place
+  - 😞 Cup CTF 2023, 1st place
+
 
 #### Holding CTFs
 
 - Development of a tasks for the internal A/D competitions of the NRU MEPhI
 - Development of [tasks](https://github.com/sprushed/nto2022_public/tree/master/tasks/crypto) for the second qualifying round of "НТО" in Information Security 2022
+
+### Listen, watch or read
+
+- MEPhI CTF Meetup 2023 - [ZKP: why we are proving something and who asked](https://www.youtube.com/watch?v=DZNZTlycUs4)
+- OFFZONE2023 - [Elliptic Curve Cryptography overview](https://www.youtube.com/watch?v=Jn9Wkhm7TKg)
+
 
 ### Languages
 

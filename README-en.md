@@ -55,7 +55,7 @@
 
 ### Listen, watch or read
 
-- MEPhI CTF Meetup 2023 - [ZKP: why we are proving something and who asked](https://www.youtube.com/watch?v=DZNZTlycUs4)
+- MEPhI CTF Meetup 2023 - [ZKP: why are we proving something and who asked](https://www.youtube.com/watch?v=DZNZTlycUs4)
 - OFFZONE2023 - [Elliptic Curve Cryptography overview](https://www.youtube.com/watch?v=Jn9Wkhm7TKg)
 
 

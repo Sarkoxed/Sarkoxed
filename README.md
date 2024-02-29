@@ -59,6 +59,7 @@
 
 - MEPhI CTF Meetup 2023 - [ZKP: кому и зачем мы что-то доказываем](https://www.youtube.com/watch?v=DZNZTlycUs4)
 - OFFZONE2023 - [Асимметричная криптография на эллиптических кривых](https://www.youtube.com/watch?v=Jn9Wkhm7TKg)
+- Курс Лекций для MEPhI CTF - [Лекции](https://github.com/Sarkoxed/MEPhI-CTF-Lectures)
 
 ### Языки
 

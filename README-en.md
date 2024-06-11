@@ -12,7 +12,7 @@
   </a>
 </div>
 
-[Shield]: ./README-en.md
+[Shield]: ./README.md
 
 [Button Shield]: https://img.shields.io/badge/ru-ff008d
 

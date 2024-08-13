@@ -20,7 +20,9 @@
 ### I am
  
   - Participating in [CTFs](https://ctftime.org/team/76463). Mostly [crypto](https://github.com/Sarkoxed/ctf-writeups) related tasks .
-  - Currently studing at the NRU MEPhI, Information Security. '24
+  - Graduated from the NRU MEPhI, Information Security. '24
+  - Currently getting a master's degree in HSE, Information Security and Artificial Intelligence. '26
+  - Working as Security Consultant in Aztec Labs for a year. Mostly auditing the internal circuits for soundness and completeness.
   - Broke boy
 
 ### Tech stack
@@ -54,6 +56,8 @@
 
 - Development of a tasks for the internal A/D competitions of the NRU MEPhI
 - Development of [tasks](https://github.com/sprushed/nto2022_public/tree/master/tasks/crypto) for the second qualifying round of "НТО" in Information Security 2022
+- Development of tasks for CTFZONE 2023 finals
+- Development of tasks for CTFZONE 2024 quals
 
 ### Listen, watch or read
 

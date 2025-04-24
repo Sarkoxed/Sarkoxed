@@ -49,6 +49,7 @@
   - 😞 VolgaCTF 2023, 2nd place
   - 😞 Cup CTF 2023, 1st place
   - 😞 Crypto CTF 2024, 8ht place
+  - 😞 TRX CTF 2025, 1st place
 
 
 

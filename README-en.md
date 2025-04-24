@@ -60,7 +60,7 @@
 - Development of a tasks for the internal A/D competitions of the NRU MEPhI
 - Development of [tasks](https://github.com/sprushed/nto2022_public/tree/master/tasks/crypto) for the second qualifying round of "НТО" in Information Security 2022
 - Development of tasks for CTFZONE 2023 finals
-- Development of tasks for CTFZONE 2024 quals
+- Development of tasks for CTFZONE 2024 quals + finals
 
 ### Listen, watch or read
 

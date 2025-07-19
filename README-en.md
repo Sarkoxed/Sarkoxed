@@ -1,7 +1,7 @@
 [![Button Shield]][Shield]
 
 <div align="center"> 
-<h1>Alex <del>rare</del> Sokolov</h1>
+<h1>Sasha <del>rare</del> Sokolov</h1>
   <a href="https://t.me/Sarkoxed" target="_blank">
     <img src="https://github.com/Sarkoxed/Sarkoxed/blob/main/telelogo.png">
   </a>

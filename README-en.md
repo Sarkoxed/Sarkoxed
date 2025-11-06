@@ -52,6 +52,7 @@
   - 😞 VolgaCTF 2024, 2nd place
   - 😞 BRICS+ CTF 2024, 2nd place
   - 😞 TRX CTF 2025, 1st place
+  - 😞 Crypto CTF 2024, 5ht place
 
 
 

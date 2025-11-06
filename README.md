@@ -65,6 +65,9 @@
 - Разработка [заданий](https://github.com/sprushed/nto2022_public/tree/master/tasks/crypto) для второго отборочного тура НТО по ИБ 2022
 - Разработка заданий для CTFZONE2023 finals
 - Разработка заданий для CTFZONE2024 quals + finals
+- Разработка заданий для VolgaCTF quals 2025
+- Разработка заданий для CTFZONE2025 quals + finals
+
 
 
 ### Послушать, посмотреть и почитать меня
